@@ -1,3 +1,5 @@
+# Concept: List is mutable means can be changed, list can store values of any type.
+
 fruits = ["apple", "banana","Cherry"]
 fruits[1] = "Orange"    #Replaces 1th index element
 fruits.pop() #Removes the element at the n-1 index
