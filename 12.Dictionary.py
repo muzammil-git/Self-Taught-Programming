@@ -1,3 +1,4 @@
+# https://www.w3resource.com/JSON/structures.php  JSON Data
 # Concept: Key-Value pair, you can retrieve a value from key
 # you can check key in dictionary but cant check value
 my_dict = {
