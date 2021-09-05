@@ -47,9 +47,3 @@ with open(my_path, "r") as my_csv:
 
     for row in read:
         print(','.join(row))
-<<<<<<< HEAD
-=======
-
-
-# Dont come
->>>>>>> a7886af5fa4ca2c006920a6a618c217bd655da20
