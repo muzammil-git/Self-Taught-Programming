@@ -17,3 +17,9 @@ with open("/home/dualweilder/Desktop/Self Taught Programmer/movies.csv", "r") as
         # print(row)
         print(','.join(row))
 
+<<<<<<< HEAD
+=======
+#HEy #Again Merged
+
+#Test my file
+>>>>>>> a7886af5fa4ca2c006920a6a618c217bd655da20
