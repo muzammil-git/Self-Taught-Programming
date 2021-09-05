@@ -47,6 +47,3 @@ with open(my_path, "r") as my_csv:
 
     for row in read:
         print(','.join(row))
-
-
-
